@@ -1,0 +1,8 @@
+c:\users\think\documents\visual studio 2010\Projects\LibraryMS00\LibraryMS00\obj\x86\Debug\LibraryMS00.Form1.resources
+c:\users\think\documents\visual studio 2010\Projects\LibraryMS00\LibraryMS00\obj\x86\Debug\LibraryMS00.Properties.Resources.resources
+c:\users\think\documents\visual studio 2010\Projects\LibraryMS00\LibraryMS00\obj\x86\Debug\LibraryMS00.csproj.GenerateResource.Cache
+c:\users\think\documents\visual studio 2010\Projects\LibraryMS00\LibraryMS00\bin\Debug\LibraryMS00.exe
+c:\users\think\documents\visual studio 2010\Projects\LibraryMS00\LibraryMS00\bin\Debug\LibraryMS00.pdb
+c:\users\think\documents\visual studio 2010\Projects\LibraryMS00\LibraryMS00\obj\x86\Debug\LibraryMS00.exe
+c:\users\think\documents\visual studio 2010\Projects\LibraryMS00\LibraryMS00\obj\x86\Debug\LibraryMS00.pdb
+C:\Users\think\Documents\Visual Studio 2010\Projects\LibraryMS00\LibraryMS00\obj\x86\Debug\LibraryMS00.csprojResolveAssemblyReference.cache
